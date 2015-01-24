@@ -2,6 +2,7 @@
 A small utility for conversion of Boolean formulae from DIMACS SAT to DIMACS CNF format. The program is a part of MSc thesis "Contributions to the Solver of Boolean Problems".
 
 # Features
+* MIT-licensed
 * Written in C++ language
 * Uses only standard C++ library. No additional frameworks are required
 * Compilation is tested for Windows and Linux systems
