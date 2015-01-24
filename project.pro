@@ -66,13 +66,3 @@ HEADERS += \
     src/Exception/expressionequalstrueexception.h \
     src/Exception/expressionequalsfalseexception.h
 
-OTHER_FILES += \
-    examples/dnf_and_eq_xor.txt \
-    examples/simple_cnf.txt \
-    doc/general.txt \
-    doc/cnf_format.txt \
-    doc/sat_format.txt \
-    examples/not_as_main.txt \
-    examples/complex_arg.txt \
-    examples/eliminate_false.txt
-
